@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Berkcan Kapusuzoglu</title>
-    <link>http://kapusuzoglu.github.io/blog/</link>
+    <link>https://kapusuzoglu.github.io/blog/</link>
     <description>Recent content in Blog on Berkcan Kapusuzoglu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023, Berkcan Kapusuzoglu, all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://kapusuzoglu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kapusuzoglu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://kapusuzoglu.github.io/blog/first-post/</link>
+      <link>https://kapusuzoglu.github.io/blog/first-post/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://kapusuzoglu.github.io/blog/first-post/</guid>
+      <guid>https://kapusuzoglu.github.io/blog/first-post/</guid>
       <description>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</description>
     </item>
     
