@@ -396,6 +396,7 @@
   document.addEventListener('DOMContentLoaded', function() {
     var body = document.body;
     var switcher = document.getElementsByClassName('js-toggle')[0];
+    var article = document.getElementsByTagName('article')[0];
 
     
     switcher.addEventListener("click", function() {
@@ -404,10 +405,14 @@
       
       if (this.classList.contains('js-toggle--checked')) {
         body.classList.remove('dark:bg-gray-900');
+        article.classList.remove('dark:prose-dark');
+        article.classList.add('prose-invert'); 
         
         
       } else {
         body.classList.add('dark:bg-gray-900');
+        article.classList.remove('prose-invert'); 
+        article.classList.add('dark:prose-dark'); 
         
         
         
@@ -415,23 +420,21 @@
     })
 
     
-    if (localStorage.getItem('darkMode')) {
-      
-          switcher.classList.add('js-toggle--checked');
-          body.classList.add('dark:bg-gray-900');
-    }
+    
+    
+    
+    
+    
   }); 
 </script>
 
     </ul>
-    
   </nav>
-  
-  
 </header>
-<main class="flex-auto mx-2 md:mx-6 lg:mx-12 mt-2 sm:mt-8">
+<main class="flex-1 mx-2 md:mx-6 lg:mx-12 mt-5 sm:mt-8s">
   <article
-    class="px-6 mx-auto max-w-4xl prose mb-16 text-gray-700 justify-self-center sm:px-4 md:px-0 dark:prose-dark"
+    class="px-6 mx-auto max-w-4xl prose mb-16 text-gray-900 justify-self-center sm:px-4 md:px-0 dark:prose-dark"
+    style="color: black !important;"
   >
     <h1 class="text-center font-light text-5xl m-0">Publications</h1>
     <div class="w-48 m-auto my-8 border-accent-400 border-2 rounded-sm"></div>
