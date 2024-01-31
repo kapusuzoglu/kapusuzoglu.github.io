@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Berkcan Kapusuzoglu</title>
+    <link>https://kapusuzoglu.github.io/categories/</link>
+    <description>Recent content in Categories on Berkcan Kapusuzoglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023, Berkcan Kapusuzoglu, all rights reserved.</copyright>
+    <lastBuildDate>Sun, 26 Nov 2023 15:51:22 -0500</lastBuildDate><atom:link href="https://kapusuzoglu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ebook</title>
+      <link>https://kapusuzoglu.github.io/categories/ebook/</link>
+      <pubDate>Sun, 26 Nov 2023 15:51:22 -0500</pubDate>
+      
+      <guid>https://kapusuzoglu.github.io/categories/ebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kindle</title>
+      <link>https://kapusuzoglu.github.io/categories/kindle/</link>
+      <pubDate>Sun, 26 Nov 2023 15:51:22 -0500</pubDate>
+      
+      <guid>https://kapusuzoglu.github.io/categories/kindle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
