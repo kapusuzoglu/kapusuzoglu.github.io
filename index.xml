@@ -9,6 +9,92 @@
     <copyright>Copyright © 2023, Berkcan Kapusuzoglu, all rights reserved.</copyright>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kapusuzoglu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://kapusuzoglu.github.io/about/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kapusuzoglu.github.io/about/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          <!-- raw HTML omitted -->
+<p>As a Data Scientist at Capital One’s Artificial Intelligence Foundations team, I specialize in Natural Language Processing (NLP), Generative AI, and Large Language Models (LLMs). My work spans across various facets of distributed machine learning, including training and inference optimization, generative NLP, and tackling large-scale data science and engineering challenges.</p>
+<p>In addition to my work at Capital One, I have a strong academic background. I earned my Ph.D. from Vanderbilt University and hold two M.S. degrees in Computational Engineering and Applied Mathematics from Delft University and the University of Erlangen-Nuremberg, respectively.</p>
+<p>My research interests include the development of hybrid machine learning methods that integrate physics knowledge seamlessly. I have a particular focus on modeling uncertainty and developing multi-objective optimizations in response to uncertainty. This work involves Physics-Informed Machine Learning (PIML) for Uncertainty Quantification (UQ) and optimization. Currently, I take great pleasure in building GenAI models for Capital One using cutting-edge architectures and techniques.</p>
+<p>In summary, my work and research are at the intersection of machine learning, computational engineering, and optimization under uncertainty, with a strong emphasis on practical applications and theoretical foundations.</p>
+
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+    <item>
+      <title>Balance In Life</title>
+      <link>https://kapusuzoglu.github.io/blog/balanceinlife/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kapusuzoglu.github.io/blog/balanceinlife/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Balancing personal life, family responsibilities, and professional growth can be challenging. Here are some strategies that might help:</p>
+<p><strong>1. Time Management:</strong></p>
+<ul>
+<li><strong>Prioritize Tasks:</strong> Identify what tasks are most important and tackle those first.</li>
+<li><strong>Time Blocking:</strong> Dedicate specific time slots for different activities throughout the day.</li>
+<li><strong>Eliminate Distractions:</strong> Minimize interruptions during your dedicated learning time.</li>
+</ul>
+<p><strong>2. Efficient Learning:</strong></p>
+<ul>
+<li><strong>Focused Learning:</strong> Concentrate on one topic at a time to avoid feeling overwhelmed.</li>
+<li><strong>Use Resources Wisely:</strong> Utilize online tutorials, forums, and documentation to learn efficiently.</li>
+</ul>
+<p><strong>3. Family Involvement:</strong></p>
+<ul>
+<li><strong>Shared Activities:</strong> Find activities that you and your child can enjoy together, like reading or puzzles. This can give you some free time later.</li>
+<li><strong>Family Support:</strong> If possible, involve your partner or other family members in childcare.</li>
+</ul>
+<p><strong>4. Self-Care:</strong></p>
+<ul>
+<li><strong>Rest:</strong> Ensure you’re getting enough sleep. It’s harder to learn when you’re tired.</li>
+<li><strong>Relaxation:</strong> Incorporate relaxation activities into your day to avoid burnout.</li>
+</ul>
+<p>Remember, it’s all about finding a balance that works for you. It’s okay if you can’t dedicate a lot of time each day. Consistency is key, even if it’s just a small amount of time each day. Good luck! 😊</p>
+
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+    <item>
       <title>First Ebook Published</title>
       <link>https://kapusuzoglu.github.io/blog/first-ebook-published/</link>
       <pubDate>Sun, 26 Nov 2023 15:51:22 -0500</pubDate>
@@ -100,39 +186,6 @@
 <p> </p>
 <p><strong>Whisper of the Bosphorus:</strong> <a href="https://www.amazon.com/dp/B0CNX5Z56P" title="https://www.amazon.com/dp/B0CNX5Z56P" target="_blank" rel="nofollow noopener">https://www.amazon.com/dp/B0CNX5Z56P</a></p>
 <p><strong>THE LITTLE ADVENTURE OF CHATGPT:</strong> <a href="https://www.amazon.com/dp/B0CNWNKDZ6" title="https://www.amazon.com/dp/B0CNWNKDZ6" target="_blank" rel="nofollow noopener">https://www.amazon.com/dp/B0CNWNKDZ6</a></p>
-
-          
-          
-          
-          
-          
-          ]]>
-      </description>
-
-
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kapusuzoglu.github.io/about/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kapusuzoglu.github.io/about/</guid>
-      
-      
-      
-      
-      
-      
-      
-      <description>
-          <![CDATA[ 
-          
-          <!-- raw HTML omitted -->
-<p>I received my Ph.D. from Vanderbilt University. My academic journey also includes two M.S. degrees in Computational Engineering and Applied Mathematics from Delft University and the University of Erlangen-Nuremberg. As a researcher, I lead the development and implementation of novel mathematical algorithms, with a keen focus on addressing uncertainty within models.</p>
-<p>My work extends to the exciting realm of hybrid machine learning (ML), where I seamlessly blend different ML techniques with fundamental physics knowledge. One of my proudest achievements lies in creating innovative methods that fuse heuristics and real-world data with ML models. By doing so, I bridge the gap between theoretical concepts and practical applications.</p>
-<p>Modeling uncertainty is at the heart of my research. I strive to develop multi-objective optimizations that respond effectively to uncertainty, ensuring robust and reliable outcomes. Additionally, I’ve devised strategies for enabling sound management decisions—finding the delicate balance between refining models and generating essential test/validation data.</p>
-<p>In this ever-evolving landscape of machine learning, I remain committed to pushing boundaries and contributing to advancements that benefit both academia and industry.</p>
 
           
           
@@ -264,7 +317,18 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
   </a>Capital One
 </h2><ul>
-<li><strong>Principal Associate, Data Scientist</strong> &ndash;&gt; <!-- raw HTML omitted --> Nov. 2022 &ndash; Present <!-- raw HTML omitted -->
+<li>
+<p><strong>Principal Associate, Data Scientist &ndash; Applied Research</strong> &ndash;&gt; <!-- raw HTML omitted --> Nov. 2023 &ndash; Present <!-- raw HTML omitted -->
+AI Foundations Team</p>
+<ul>
+<li>My work encompasses pretraining, fine-tuning, and optimizing both training and inference processes, leveraging Kubernetes for efficient resource management and scalability.</li>
+<li>My expertise lies in Natural Language Processing (NLP), with a strong focus on cloud-based machine learning solutions. I am deeply engaged in MLOps engineering, which includes designing robust inference solutions and training pipelines.</li>
+<li>Building Foundation Models using multi-node multi-process architectures via Kubernetes.</li>
+<li>Responsible for building and maintaining the infrastructure required for hosting these large language models, ensuring their seamless integration and performance within our financial ecosystem.</li>
+</ul>
+</li>
+<li>
+<p><strong>Principal Associate, Data Scientist</strong> &ndash;&gt; <!-- raw HTML omitted --> Nov. 2022 &ndash; Nov. 2023 <!-- raw HTML omitted --></p>
 <ul>
 <li>Collaborated closely with a cross-functional team of data scientists, software engineers, and product managers to deliver precise forecasts for Comprehensive Capital Analysis and Review (CCAR) and routine business operations. Executed pivotal adjustments to the model forecast, resulting in a significant total allowance impact of <strong>$600M</strong>.</li>
 <li>Applied a diverse technology stack, including Python, AWS, and Spark, to enhance the precision of loss forecasts. Conducted comprehensive sensitivity analysis on account-level loss models across different economic scenarios, leading to the identification and resolution of a data issue with a consequential impact of <strong>$700M</strong> in provision.</li>
